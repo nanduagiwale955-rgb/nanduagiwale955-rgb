@@ -1,12 +1,12 @@
 # Hi, I'm Nandu 👋
 
-### B.Tech Engineering Student | Problem Solver | Lifelong Learner
+### B.Tech Engineering Student | Problem Solver 
 
 I’m a B.Tech engineering student passionate about learning through building and solving real-world problems. My interests span software development, data structures and algorithms, databases, and core electrical engineering.
 
 - 🔭 Exploring practical projects that strengthen my engineering and problem-solving skills
 - 🌱 Building a strong foundation in C++, Python, and SQL
-- 💬 Interested in Data Structures & Algorithms, programming, databases, and core electrical concepts
+- 💬 Interested in Data Structures & Algorithms, programming, databases
 - ⚡ I believe the best way to learn is by building, experimenting, and improving
 
 ## 💻 Tech Stack
@@ -21,7 +21,6 @@ I’m a B.Tech engineering student passionate about learning through building an
 - C++ and Python Programming
 - SQL and Databases
 - Problem Solving
-- Core Electrical Engineering
 
 ## 📊 GitHub Stats
 
