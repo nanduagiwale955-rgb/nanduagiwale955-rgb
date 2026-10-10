@@ -24,14 +24,13 @@ I’m a B.Tech engineering student passionate about learning through building an
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanduagiwale955-rgb&show_icons=true&theme=dark&hide_border=false)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anduagivale955-rgb&show_icons=true&theme=dark)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nanduagiwale955-rgb&theme=dark&hide_border=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=anduagivale955-rgb&theme=dark)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anduagivale955-rgb&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nanduagiwale955-rgb&layout=compact&theme=dark&hide_border=false)
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=anduagivale955-rgb&icon=0&color=0)
+![Profile Views](https://visitcount.itsvg.in/api?id=nanduagiwale955-rgb&icon=0&color=0)
+
